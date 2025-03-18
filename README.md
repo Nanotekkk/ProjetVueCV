@@ -44,18 +44,9 @@ VUE_APP_GITHUB_USERNAME=votre-nom-utilisateur
 
 ### Démarrage de l'application
 ```bash
-npm run serve
+npm run dev
 # ou
-yarn serve
-```
-
-L'application sera accessible à l'adresse: http://localhost:8080
-
-### Construction pour la production
-```bash
-npm run build
-# ou
-yarn build
+yarn dev
 ```
 
 ## Personnalisation
